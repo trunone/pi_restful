@@ -1,0 +1,6 @@
+RPi.GPIO
+flask
+flask_restful
+adafruit-circuitpython-ccs811
+adafruit-circuitpython-si7021
+adafruit-circuitpython-bmp280
